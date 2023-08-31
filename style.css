@@ -1,0 +1,182 @@
+body{
+    background-color: blue;
+    text-align: center;
+    }
+    .option{
+        width: 300px;
+        height: 200px;
+        background-color: yellow;
+        font-size: 40px;
+        color: red;
+        font-family: sans-serif;
+    }
+
+    .option:hover{
+width: 310px;
+height: 220px;
+font-size: 42px;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
+#Info{
+width: 1100px;
+margin-left: 170px;
+    color: red;
+}
+
+
+#HelpBody{
+    background-color: yellow;
+    text-align: center;
+}
+#Image:hover{
+cursor: pointer;
+
+}
+
+#Image{
+    width: 120px;
+    height: 120px;
+}
+
+#Levelone{
+    margin-top: -27px;
+    margin-left: 140px;
+}
+
+.Guesser{
+    width: 60px;
+    height: 30px;
+    margin-left: 10px;
+    background-color: white;
+}
+.Pegs{
+    width: 27.5px;
+    height: 27px;
+    background-color: purple ;
+}
+#atenone{
+    margin-left: 300px;
+}
+#atenthree{
+    margin-left: 300px;
+}
+#anineone{
+    margin-left: 300px;
+}
+#aninethree{
+    margin-left: 300px;
+}
+#aeightone{
+    margin-left: 300px;
+}
+#aeightthree{
+    margin-left: 300px;
+}
+#asevenone{
+    margin-left: 300px;
+}
+#aseventhree{
+    margin-left: 300px;
+}
+#asixone{
+    margin-left: 300px;
+}
+#asixthree{
+    margin-left: 300px;
+}
+#afiveone{
+    margin-left: 300px;
+}
+#afivethree{
+    margin-left: 300px;
+}
+#afourone{
+    margin-left: 300px;
+}
+#afourthree{
+    margin-left: 300px;
+}
+#athreeone{
+    margin-left: 300px;
+}
+#athreethree{
+    margin-left: 300px;
+}#atwoone{
+    margin-left: 300px;
+}
+#atwothree{
+    margin-left: 300px;
+}#aoneone{
+    margin-left: 300px;
+}
+#aonethree{
+
+    margin-left: 600px;
+}
+#Arrow{
+    width: 40px;
+    height: 40px;
+    margin-left: -45px;
+}
+#Arrow:hover{
+    cursor: pointer;
+}
+.Color{
+    width: 50px;
+    height: 50px;
+}
+#Red,#Reded{
+    background-color: red;
+ margin-left: -323px;
+}
+#Yellow,#Yellowed{
+    background-color: yellow;
+}
+#Green,#Greened{
+    background-color: green;
+}
+#Orange,#Orangeed{
+    background-color: orange;
+}
+#Black,#Blacked{
+    background-color: black;
+}
+#Pink,#Pinked{
+    background-color: pink;
+}
+.Color:hover{
+    cursor: pointer;
+}
+#Submit{
+    margin-left: 200px;
+  background-color: gray;
+}
+#bruhmbappe{
+    width: 200px;
+    height: 200px;
+}
+#bruhmbappe:hover{
+    cursor: pointer;
+}
+#pele:hover{
+    cursor: pointer;
+
+}
+#mid{
+    display: none;
+}
+#id{
+    width: 100px;
+    height: 100px;
+}
+#id:hover{
+    cursor: pointer;
+}
+#end{
+    display: none;
+}
+#winnner{
+    display: none;
+}

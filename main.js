@@ -960,9 +960,11 @@ if(Parameter==1){
     }
 if (player==2){
     if(Parameter==1){
+        done=0
 TwoWin()
     }else {
         if(done==40){
+            done=0
 OneWin()
         }
     }
